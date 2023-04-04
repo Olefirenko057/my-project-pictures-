@@ -1,0 +1,17 @@
+* {
+   margin: 0;
+   padding: 0; 
+}
+h1 {
+    margin-bottom: 20px;
+}
+p {
+    background-color: cornflowerblue;
+    margin-bottom: 40px;
+    margin-left: 20px;
+    padding-bottom: 40px;
+}
+a {
+    background-color: lightblue;
+    margin-right: 30px;
+}
